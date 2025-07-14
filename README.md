@@ -1,9 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Emmanuel Ejifolabi</h1>
 <h3 align="center">AI + Signal Processing Enthusiast | Computer Vision Explorer | Open Source Contributor</h3>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" />
-</p>
+<img align="right" alt="AI Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 ---
 
