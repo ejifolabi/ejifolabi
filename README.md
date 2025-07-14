@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Emmanuel Oludare Ejifolabi</h1>
+<h1 align="center">Hi there 👋, I'm Emmanuel Ejifolabi</h1>
 <h3 align="center">AI + Signal Processing Enthusiast | Computer Vision Explorer | Open Source Contributor</h3>
 
 <img align="right" alt="AI Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
@@ -48,10 +48,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ejifolabi&show_icons=true&theme=radical" width="47%" />
   <img src="https://streak-stats.demolab.com?user=ejifolabi&theme=radical&hide_border=false" width="47%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ejifolabi&theme=redical" />
 </p>
 
 ---
