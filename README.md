@@ -59,8 +59,8 @@
 ### 🌍 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/emmagee001)  
-[![Gmail](https://img.shields.io/badge/-ejifolabiemmanueloludare@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ejifolabiemmanueloludare@gmail.com)  
-[![GitHub](https://img.shields.io/badge/-ejifolabi-181717?style=flat&logo=github)](https://github.com/ejifolabi)
+[![Gmail](https://img.shields.io/badge/-E-Mail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ejifolabiemmanueloludare@gmail.com)  
+[![GitHub](https://img.shields.io/badge/-Github-181717?style=flat&logo=github)](https://github.com/ejifolabi)
 
 ---
 
