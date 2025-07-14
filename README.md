@@ -1,7 +1,9 @@
 <h1 align="center">Hi there 👋, I'm Emmanuel Ejifolabi</h1>
 <h3 align="center">AI + Signal Processing Enthusiast | Computer Vision Explorer | Open Source Contributor</h3>
 
-<img align="right" alt="AI Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" />
+</p>
 
 ---
 
@@ -32,14 +34,13 @@
 
 ---
 
-### 🔬 Projects (AI + DSP + CV)
+### 🛠 Projects Preview
 
-| Project | Description | Tech |
-|--------|-------------|------|
-| 🎤 [Voice Gender Classifier](https://github.com/ejifolabi/voice-gender-classification) | Predicts gender from speech using ML and signal features | `Python`, `Librosa`, `Sklearn`, `Streamlit` |
-| 🧠 [Image Filter Classifier](#) *(coming soon)* | Detects and classifies image filters using computer vision | `OpenCV`, `TensorFlow`, `Python` |
-| 🔉 [DSP Toolbox](https://github.com/ejifolabi/dsp-toolbox) *(coming soon)* | Tools for analyzing & visualizing real-world signals | `NumPy`, `Matplotlib`, `Scipy`, `Streamlit` |
-| 🌐 [Portfolio Website](https://github.com/ejifolabi/portfolio) | Personal interactive portfolio hosted via GitHub Pages | `HTML`, `CSS`, `JS` |
+| Project | Description |
+|--------|-------------|
+| 🎤 Voice Gender Classifier | Predicts gender from voice using ML and audio features |
+| 🧠 DSP Toolbox *(Coming Soon)* | Explore digital signal simulation and visual tools |
+| 🖼️ Image Filter Classifier *(Coming Soon)* | Applies DSP on images for visual pattern recognition |
 
 ---
 
