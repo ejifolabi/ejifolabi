@@ -1,18 +1,20 @@
 <h1 align="center">Hi there 👋, I'm Emmanuel Ejifolabi</h1>
-<h3 align="center">AI + Signal Processing Enthusiast | Computer Vision Explorer | Open Source Contributor</h3>
+<h3 align="center">Global Telecom Engineer | HND Distinction 3.68/4.0 (Best Grad 2025) | MATLAB Wireless/Onramp Certified | Python Automation Specialist</h3>
 
 <img align="right" alt="AI Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 ---
 
 ### 👨‍💻 About Me
-
+<h3>Hands-on with IHS Towers: Breakers/DCDB installs, site surveys, tower load analysis (IEC wind/ice standards). Delivered **99% uptime** on 50+ sites via RF optimization.</h3>
 - 🎓 Electrical and Electronics Engineering Graduate (ND & HND)
 - 🤖 Passionate about **AI**, **Signal Processing**, and **Computer Vision**
-- 🧠 Applying DSP principles to real-world **audio** and **image** analysis problems
-- 🛠 Building **practical AI systems** using free tools and open-source platforms
-- 🔄 Lifelong learner committed to deep technical growth and creative problem solving
-- 📌 Goal: Ship 6 high-impact AI/DSP projects by the end of the year
+
+---
+## 🛠️ Technical Stack
+- **MATLAB**: OFDM, channel modeling, 5G simulations
+- **Python**: NumPy/SciPy (survey automation, load calcs, viz)
+- RF Propagation • Network Optimization • Power Systems
 
 ---
 
@@ -32,16 +34,6 @@
 
 ---
 
-### 🛠 Projects Preview
-
-| Project | Description |
-|--------|-------------|
-| 🎤 Voice Gender Classifier | Predicts gender from voice using ML and audio features |
-| 🧠 DSP Toolbox *(Coming Soon)* | Explore digital signal simulation and visual tools |
-| 🖼️ Image Filter Classifier *(Coming Soon)* | Applies DSP on images for visual pattern recognition |
-
----
-
 ### 📈 GitHub Stats
 
 <p align="center">
@@ -56,15 +48,6 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/emmagee001)  
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ejifolabiemmanueloludare@gmail.com)  
 [![GitHub](https://img.shields.io/badge/-Github-181717?style=flat&logo=github)](https://github.com/ejifolabi)
-
----
-
-### ✨ Quick Facts
-
-- 💬 I simplify **Signal Processing + AI** for learners and researchers
-- 🧩 I’m currently experimenting with **image classification using filters & edge detection**
-- 🎯 I love converting ideas into **deployable projects**—from voice to vision
-- 💡 Motto: *Learn Deep. Build Smart. Share Freely.*
 
 ---
 
