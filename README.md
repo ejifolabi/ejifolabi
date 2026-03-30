@@ -5,10 +5,8 @@
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 <h3>Hands-on with IHS Towers: Breakers/DCDB installs, site surveys, tower load analysis (IEC wind/ice standards). Delivered **99% uptime** on 50+ sites via RF optimization.</h3>
-- 🎓 Electrical and Electronics Engineering Graduate (ND & HND)
-- 🤖 Passionate about **AI**, **Signal Processing**, and **Computer Vision**
 
 ---
 ## 🛠️ Technical Stack
